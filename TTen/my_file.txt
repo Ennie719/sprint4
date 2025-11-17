@@ -1,0 +1,4 @@
+"Do not go gentle into that good night"
+[12, 13, 14]
+100.42
+Alice
